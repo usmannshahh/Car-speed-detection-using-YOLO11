@@ -69,6 +69,6 @@ Live video feed with bounding boxes around detected vehicles
 Real-time speed displayed for each detected vehicle
 
 👨‍💻 Author
-Furqan Iftikhar
-📧 mfurqaniftikhar00@gmail.com
-🌐 https://github.com/mfurqaniftikhar
+Muhammad Usman shah
+📧usmannshahh@gmail.com
+🌐 [https://github.com/mfurqaniftikhar](https://github.com/usmannshahh)
